@@ -18,6 +18,7 @@
 
 import * as LitJsSdk from '@lit-protocol/lit-node-client-nodejs';
 
+
 // this code will be run on the node
 const litActionCode = `
 const go = async () => {  
