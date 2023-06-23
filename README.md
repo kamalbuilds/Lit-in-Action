@@ -20,4 +20,7 @@ So, when these numbers are converted to their corresponding characters using the
 
 The rest of the code defines an asynchronous `go` function that uses this `toSign` array to request a signature share from a Lit Node using the `LitActions.signEcdsa` method. The signature share is returned in the HTTP response from the node and stored in the `sigShare` variable.
 
-npm install -g getlit
+PKP - https://explorer.litprotocol.com/pkps/13060450351822802328499309576153793306552432408244037559038668142453714032884
+Lit Action Created  - https://explorer.litprotocol.com/actions/QmSCxGRRznNDJRDri9qd3batstNiSj9xDHRTVhj8j2TKfo
+
+`npm install -g getlit`
